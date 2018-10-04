@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="adicionar">Add</string>
+    <string name="editar">Edit</string>
+    <string name="remover">Delete</string>
+    <string name="ajuda">Help</string>
+    <string name="adicionar_msg">Add contact</string>
+    <string name="editar_msg">Edit contact</string>
+    <string name="remover_msg">Delete contact</string>
+    <string name="ajuda_msg">Help text</string>
+</resources>
